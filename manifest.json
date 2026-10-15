@@ -1,0 +1,19 @@
+{
+  "name": "CY2 Tide Monitor Teesport",
+  "short_name": "CY2 Tide",
+  "description": "Predicted and Actual Tide Monitoring Dashboard for Teesport",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF7FC",
+  "theme_color": "#0874B9",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
